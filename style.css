@@ -2,6 +2,9 @@
     font-family: figtree;
     src: url(fonts/Figtree-VariableFont_wght.ttf);
 }
+header{
+    display: none;
+}
 *{
     box-sizing: border-box;
     padding: 0;
@@ -76,4 +79,5 @@ body{
     padding-top: 10px;
     font-size: 11px;
     font-weight: 500;
+
 }
